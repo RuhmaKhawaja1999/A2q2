@@ -1,0 +1,2 @@
+rootProject.name='LayoutQ2'
+include ':app'

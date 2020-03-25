@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LayoutQ2</string>
+    <string name="report_card">Report Card</string>
+    <string name="student_name">Student Name</string>
+    <string name="Grade">Grade</string>
+    <string name="rollno">RollNo</string>
+    <string name="subject_marks">Subjects and Marks</string>
+    <string name="english">English</string>
+    <string name="maths">Maths</string>
+    <string name="computer">Computer</string>
+    <string name="urdu">Urdu</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="next">Next</string>
+</resources>
